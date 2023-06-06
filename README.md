@@ -1,3 +1,6 @@
+[My video link is here](https://www.loom.com/share/8b5edae85d5a4cbfb4ed1c023ca358c7)
+[My Postman link is here](https://winter-meteor-829835.postman.co/workspace/Student~3ed153d4-be03-4283-966a-cb40fb5a0c94/collection/27751324-c1a0aa55-cf08-46f1-aee8-02e10c670e47?action=share&creator=27751324)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
